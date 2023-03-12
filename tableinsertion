@@ -21,5 +21,30 @@
         Problem solving ebilities
     </li>
     <img src="C:\Users\91735\Pictures\htmlpic.png" alt="PICTURE HERE" width="500" height="600">
+  <table>
+  <tr>
+    <th>INSTITUITION</th>
+    <th>YEAR</th>
+    <th>COURSE</th>
+  </tr>
+  <tr>
+    <td>IJGHS</td>
+    <td>2006-2018</td>
+    <td>LKG-SSLC</td>
+  </tr>
+  <tr>
+      <tr>
+    <td>ST.ALOYSIUS HSS,ELTHURUTH</td>
+    <td>2018-2020</td>
+    <td>PRE DEGREE</td>
+  </tr>
+  <tr>
+      <tr>
+    <td>VAST</td>
+    <td>2020-2024</td>
+    <td>UG</td>
+  </tr>
+  <tr>
+      </table>
 </body>
 </html>
